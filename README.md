@@ -14,12 +14,12 @@ This repository contains:
 * REFERENCES File
 * DATA Folder 
   * Cleaned HDI and GDI data from 2000-2023
-*SCRIPTS
-* Stata cleaning script
-* R cleaning script
-* Analysis/Visualization script
+* SCRIPTS
+ * Stata cleaning script
+ * R cleaning script
+ * Analysis/Visualization script
 *OUTPUT
-* Data dictionary, EDA Plots, Analysis Results and Final Plots
+ * Data dictionary, EDA Plots, Analysis Results and Final Plots
 
 ## Section 3:
 Steps for reproducing results
