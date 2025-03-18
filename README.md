@@ -15,9 +15,9 @@ This repository contains:
 * DATA Folder 
   * Cleaned HDI and GDI data from 2000-2023
 * SCRIPTS
- * Stata cleaning script
- * R cleaning script
- * Analysis/Visualization script
+  *  Stata cleaning script
+  *  R cleaning script
+  *  Analysis/Visualization script
 *OUTPUT
  * Data dictionary, EDA Plots, Analysis Results and Final Plots
 
