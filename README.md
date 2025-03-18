@@ -9,17 +9,17 @@ Platform: All members used Macs
 
 ## Section 2: Map of Our Documentation 
 This repository contains:
-LICENSE
-README.MD
-REFERENCES File
-DATA Folder 
-  - Cleaned HDI and GDI data from 2000-2023
-SCRIPTS
-- Stata cleaning script
-- R cleaning script
-- Analysis/Visualization script
-OUTPUT
-- Data dictionary, EDA Plots, Analysis Results and Final Plots
+* LICENSE
+* README.MD
+* REFERENCES File
+*DATA Folder 
+  * Cleaned HDI and GDI data from 2000-2023
+*SCRIPTS
+* Stata cleaning script
+* R cleaning script
+* Analysis/Visualization script
+*OUTPUT
+* Data dictionary, EDA Plots, Analysis Results and Final Plots
 
 ## Section 3:
 Steps for reproducing results
