@@ -19,7 +19,7 @@ This repository contains:
   *  R cleaning script
   *  Analysis/Visualization script
 * OUTPUT
- * Data dictionary, EDA Plots, Analysis Results and Final Plots
+  * Data dictionary, EDA Plots, Analysis Results and Final Plots
 
 ## Section 3:
 Steps for reproducing results
