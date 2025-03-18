@@ -1,0 +1,5 @@
+library(haven)
+hdi_clean <- read_dta("hdi.dta")
+write.csv(hdi_clean, file = "hdi_clean")
+hdi <- read.csv("~/Desktop/important/hdi_clean")
+View(hdi)
