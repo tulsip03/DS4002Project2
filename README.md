@@ -12,7 +12,7 @@ This repository contains:
 * LICENSE
 * README.MD
 * REFERENCES File
-*DATA Folder 
+* DATA Folder 
   * Cleaned HDI and GDI data from 2000-2023
 *SCRIPTS
 * Stata cleaning script
