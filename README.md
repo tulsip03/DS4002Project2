@@ -21,7 +21,7 @@ This repository contains:
 * OUTPUT
   * Data dictionary, EDA Plots, Analysis Results and Final Plots
 
-## Section 3:
+## Section 3: Instructions for Reproduction
 Steps for reproducing results
 1. Download cleaned data from Data File
 
