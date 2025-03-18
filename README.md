@@ -18,7 +18,7 @@ This repository contains:
   *  Stata cleaning script
   *  R cleaning script
   *  Analysis/Visualization script
-*OUTPUT
+* OUTPUT
  * Data dictionary, EDA Plots, Analysis Results and Final Plots
 
 ## Section 3:
