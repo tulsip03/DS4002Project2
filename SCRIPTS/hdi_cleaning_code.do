@@ -19,4 +19,4 @@ drop mf_*
 drop rankdiff_hdi_phdi_*
 drop coef_ineq_*
 
-save "h"
+save "hdi.dta"
