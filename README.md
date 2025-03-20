@@ -15,6 +15,7 @@ This repository contains:
 * DATA Folder
   * Raw data for HDI and GDI
   * Cleaned HDI and GDI data from 2000-2023
+  * Data Appendix
 * SCRIPTS
   *  Stata cleaning script
   *  R cleaning script
