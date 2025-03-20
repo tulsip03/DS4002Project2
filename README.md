@@ -13,15 +13,18 @@ This repository contains:
 * README.MD
 * REFERENCES File
 * DATA Folder
-  * Raw data for HDI and GDI
-  * Cleaned HDI and GDI data from 2000-2023
-  * Data Appendix
+  * Raw data for HDI and GDI (HDR23-24_Composite_indices_complete_time_series.csv)
+  * Cleaned HDI and GDI data from 2000-2023 (hdi_clean)
+  * Data Appendix (Data Appendix.pdf)
 * SCRIPTS
-  *  Stata cleaning script
-  *  R cleaning script
-  *  Analysis/Visualization script
+  *  Stata cleaning script (1_hdi_cleaning_code.do)
+  *  R cleaning script (2_cleaning_hdi.R)
+  *  EDA script (3_Project2_EDA.R)
+  *  Analysis/Visualization script (4_Project2_Arima.R)
 * OUTPUT
-  * Data dictionary, EDA Plots, Analysis Results and Final Plots
+  * Data dictionary (DATA DICTIONARY PROJECT 2.pdf)
+  * EDA Plots (EDA PLOTS PROJECT 2 .pdf)
+  * Analysis Results and Final Plots (ANALYSIS PLOT + RESULTS PROJECT 2.pdf)
 
 ## Section 3: Instructions for Reproducing Our Results
 1. Download raw data in the DATA folder. Data file is called "HDR23-24_Composite_indices_complete_time_series.csv".
